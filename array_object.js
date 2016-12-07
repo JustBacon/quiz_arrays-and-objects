@@ -16,7 +16,7 @@ function Open(a){
 		console.log("You Shall Not Pass!")
 	}
 }
-Open(3);
+Open(myArray[3]);
 
 var batman = {
 	man : true,
